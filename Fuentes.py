@@ -12,7 +12,7 @@ lbFuente = Label(ventana, text="Harlow Solid Italic : Así se ve esta fuente aei
 lbFuente = Label(ventana, text="Goudy Old Style : Así se ve esta fuente aeiou AEIOU ñ?¿!",
                      font=("Goudy Old Style", 30)).place(x=0, y=55)
 lbFuente = Label(ventana, text="DejaVu Serif : Así se ve esta fuente aeiou AEIOU ñ?¿!",
-                         font=("|", 30)).place(x=0, y=110)
+                         font=("DejaVu Serif", 30)).place(x=0, y=110)
 lbFuente = Label(ventana, text="AR DELANEY : Así se ve esta fuente aeiou AEIOU ñ?¿!",
                      font=("AR DELANEY", 30)).place(x=0, y=165)
 lbFuente = Label(ventana, text="AR CARTER : Así se ve esta fuente aeiou AEIOU ñ?¿!",
